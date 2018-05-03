@@ -7,3 +7,4 @@ hell
 Git is Free software
 Git is free software distributed under the GPL.
 Git is Good
+Git tracks changes of files.
